@@ -1,0 +1,3 @@
+Can't commit apk to github because it's larger than 50Mb. Here is the apk link:
+
+https://expo.io/artifacts/83702d79-680e-466e-9c28-40ae0673842a
